@@ -33,3 +33,31 @@ Al analizar la situación comprendí que el inconveniente no era únicamente la 
 Si hubiera establecido desde el inicio un proceso formal para revisar y aprobar contenidos antes de publicarlos, probablemente muchas modificaciones de último momento se habrían evitado o podrían haberse gestionado de forma más ordenada.
 También entendí que comunicar el valor estratégico de una planificación es tan importante como diseñarla.
 
+## Aprendizajes
+1. Esta experiencia me dejó varios aprendizajes que aplico actualmente:
+2. La comunicación entre las personas involucradas es tan importante como las habilidades técnicas.
+3. Un calendario editorial necesita un proceso de aprobación claro.
+4. Las decisiones urgentes deben existir, pero con criterios definidos para no afectar la estrategia general.
+5. Explicar el fundamento detrás de una decisión profesional ayuda a generar confianza y mejorar la colaboración.
+6. Una estrategia de redes sociales funciona mejor cuando todos los involucrados comparten los mismos objetivos.
+
+## Evidencia de control de versiones
+1. Para el desarrollo de esta entrada utilicé Git y GitHub como herramientas de control de versiones, registrando cada etapa del proceso mediante commits descriptivos. Esto permitió documentar la evolución del trabajo desde la creación de la estructura inicial hasta la publicación de la versión final.
+2. El uso de control de versiones aportó varios beneficios durante el desarrollo:
+3. Seguimiento del progreso: cada commit representa una etapa específica del trabajo, permitiendo observar cómo evolucionó el contenido de forma ordenada e incremental.
+4. Trazabilidad de los cambios: el historial conserva un registro completo de qué modificaciones se realizaron, cuándo se realizaron y con qué propósito, facilitando la revisión del proceso y la identificación de mejoras.
+5. Recuperación de versiones anteriores: en caso de que alguna modificación no resultara satisfactoria, Git permite volver a un estado previo sin perder el trabajo realizado, reduciendo el riesgo de errores permanentes.
+6. Documentación del proceso de desarrollo: más allá del resultado final, el historial de commits funciona como evidencia del proceso de construcción del proyecto, aportando transparencia y permitiendo comprender cómo se llegó a la versión publicada.
+7. Facilidad para la colaboración: aunque este ejercicio fue realizado de manera individual, GitHub está diseñado para facilitar el trabajo en equipo mediante ramas (branches), solicitudes de incorporación de cambios (Pull Requests) y revisiones de código, lo que favorece una comunicación organizada y un desarrollo colaborativo.
+
+Repositorio público: https://github.com/cmk1343/blog-mentalidad-crecimiento/edit/main/blog-post.md
+
+## Commits relevantes: 
+Creación de la estructura inicial del blog.
+Incorporación del contexto y descripción del problema.
+Desarrollo de las acciones implementadas y aprendizajes obtenidos.
+Revisión final, correcciones y publicación de la entrada.
+
+
+Reflexión sobre el feedback radicalmente sincero
+Durante esta experiencia comprendí que brindar y recibir feedback de manera directa, respetuosa y fundamentada resulta esencial para cualquier proyecto. En lugar de interpretar las diferencias como conflictos personales, aprendí a enfocarme en explicar el impacto que determinadas decisiones tenían sobre la estrategia de comunicación. Del mismo modo, entendí que escuchar las necesidades del negocio permite encontrar mejores soluciones cuando existe un diálogo abierto. Aplicar un feedback radicalmente sincero implica expresar los problemas con honestidad, respaldarlos con argumentos y mantener el objetivo común de mejorar el trabajo del equipo.
