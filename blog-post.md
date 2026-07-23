@@ -20,4 +20,16 @@ En varias ocasiones estas decisiones se implementaban sin una instancia previa d
 5.  Mayor tiempo dedicado a rehacer piezas y reorganizar la planificación.
 Aunque el objetivo siempre era responder rápidamente a necesidades del negocio, la falta de coordinación generaba inconsistencias en la comunicación de la marca.
 
+## Acciones
+Para afrontar la situación intenté reorganizar el proceso de trabajo en lugar de centrarme únicamente en el problema.
+Las acciones implementadas fueron:
+1. Mantener un calendario editorial actualizado para mostrar la planificación de contenidos.
+2. Explicar el motivo detrás de las decisiones de diseño, frecuencia y horarios de publicación.
+3. Adaptar el contenido urgente cuando era necesario, procurando afectar lo menos posible la identidad visual.
+4. Registrar los cambios solicitados para identificar patrones y evaluar su impacto sobre la estrategia.
+
+## Post-mortem (Constructivo)
+Al analizar la situación comprendí que el inconveniente no era únicamente la modificación de publicaciones, sino la ausencia de un flujo de aprobación claramente definido.
+Si hubiera establecido desde el inicio un proceso formal para revisar y aprobar contenidos antes de publicarlos, probablemente muchas modificaciones de último momento se habrían evitado o podrían haberse gestionado de forma más ordenada.
+También entendí que comunicar el valor estratégico de una planificación es tan importante como diseñarla.
 
