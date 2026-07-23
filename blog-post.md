@@ -51,11 +51,11 @@ También entendí que comunicar el valor estratégico de una planificación es t
 7. Facilidad para la colaboración: aunque este ejercicio fue realizado de manera individual, GitHub está diseñado para facilitar el trabajo en equipo mediante ramas (branches), solicitudes de incorporación de cambios (Pull Requests) y revisiones de código, lo que favorece una comunicación organizada y un desarrollo colaborativo.
 
 ## Commits relevantes: 
-1. Creación de la estructura inicial del blog.
-2. Incorporación del contexto y descripción del problema.
-3. Desarrollo de las acciones implementadas y aprendizajes obtenidos.
-4. Revisión final, correcciones y publicación de la entrada.
-
+1. [`9d454e9` Creación de la estructura inicial del blog.](https://github.com/cmk1343/blog-mentalidad-crecimiento/commit/9d454e9)
+2. [`a73d333` Incorporación del contexto y descripción del problema.](https://github.com/cmk1343/blog-mentalidad-crecimiento/commit/a73d333)
+3. [`015167e` Desarrollo de las acciones implementadas y aprendizajes obtenidos.](https://github.com/cmk1343/blog-mentalidad-crecimiento/commit/015167e)
+4. [`a8f0f68` Revisión final, correcciones y publicación de la entrada.](https://github.com/cmk1343/blog-mentalidad-crecimiento/commit/a8f0f68)
+5. [`97274f5`: Se consolidó una versión clara y organizada que resume la experiencia y sus conclusiones.](https://github.com/cmk1343/blog-mentalidad-crecimiento/commit/97274f5)
 
 ## Reflexión sobre el feedback radicalmente sincero
 Durante esta experiencia comprendí que brindar y recibir feedback de manera directa, respetuosa y fundamentada resulta esencial para cualquier proyecto. En lugar de interpretar las diferencias como conflictos personales, aprendí a enfocarme en explicar el impacto que determinadas decisiones tenían sobre la estrategia de comunicación. Del mismo modo, entendí que escuchar las necesidades del negocio permite encontrar mejores soluciones cuando existe un diálogo abierto. Aplicar un feedback radicalmente sincero implica expresar los problemas con honestidad, respaldarlos con argumentos y mantener el objetivo común de mejorar el trabajo del equipo.
