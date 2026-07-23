@@ -50,14 +50,12 @@ También entendí que comunicar el valor estratégico de una planificación es t
 6. Documentación del proceso de desarrollo: más allá del resultado final, el historial de commits funciona como evidencia del proceso de construcción del proyecto, aportando transparencia y permitiendo comprender cómo se llegó a la versión publicada.
 7. Facilidad para la colaboración: aunque este ejercicio fue realizado de manera individual, GitHub está diseñado para facilitar el trabajo en equipo mediante ramas (branches), solicitudes de incorporación de cambios (Pull Requests) y revisiones de código, lo que favorece una comunicación organizada y un desarrollo colaborativo.
 
-Repositorio público: https://github.com/cmk1343/blog-mentalidad-crecimiento/edit/main/blog-post.md
-
 ## Commits relevantes: 
-Creación de la estructura inicial del blog.
-Incorporación del contexto y descripción del problema.
-Desarrollo de las acciones implementadas y aprendizajes obtenidos.
-Revisión final, correcciones y publicación de la entrada.
+1. Creación de la estructura inicial del blog.
+2. Incorporación del contexto y descripción del problema.
+3. Desarrollo de las acciones implementadas y aprendizajes obtenidos.
+4. Revisión final, correcciones y publicación de la entrada.
 
 
-Reflexión sobre el feedback radicalmente sincero
+## Reflexión sobre el feedback radicalmente sincero
 Durante esta experiencia comprendí que brindar y recibir feedback de manera directa, respetuosa y fundamentada resulta esencial para cualquier proyecto. En lugar de interpretar las diferencias como conflictos personales, aprendí a enfocarme en explicar el impacto que determinadas decisiones tenían sobre la estrategia de comunicación. Del mismo modo, entendí que escuchar las necesidades del negocio permite encontrar mejores soluciones cuando existe un diálogo abierto. Aplicar un feedback radicalmente sincero implica expresar los problemas con honestidad, respaldarlos con argumentos y mantener el objetivo común de mejorar el trabajo del equipo.
